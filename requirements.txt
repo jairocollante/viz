@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.8
 freeze==1.0.10
 gunicorn==19.9.0
 persisting-theory==0.2.1
